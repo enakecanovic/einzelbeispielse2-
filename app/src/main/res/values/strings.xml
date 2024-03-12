@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">einzelbeispielse2</string>
+
+    <string name="matrnr">Please enter a valid matriculation number: </string>
+</resources>
